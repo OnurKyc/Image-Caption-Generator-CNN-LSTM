@@ -27,3 +27,8 @@ The Convolutional Neural Network(CNN) can be thought of as an encoder. The input
 
 ### Decoder
 The Decoder is a Recurrent Neural Network(RNN) which does language modelling up to the word level. The first time step receives the encoded output from the encoder and also the <START> vector.
+
+  
+### Proposed Model
+  
+![model](https://user-images.githubusercontent.com/72556537/137338787-3a8682ab-6ed4-44b1-ae47-bcd888da0cd3.png)
